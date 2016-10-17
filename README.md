@@ -1,2 +1,0 @@
-# Dockers
-Docker &amp; Dockerfiles
